@@ -26,5 +26,4 @@ These are some pictures of the app's user interface :<br /><br />
 <img src="imagesUI/20220619_Transaction Report.jpg" width=180>
 
 <br /><br />
-Catat Uang App,<br />
-Created by Ferry Dwianta P (https://github.com/ferry582) on 18/05/2022
+
